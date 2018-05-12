@@ -1,16 +1,22 @@
 _repo: Aus-den-Tiefen-des-Weltmeeres-Schilderungen-von-der-deutschen-Tiefsee-Expedition_46781
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Gansberg, Fritz
       gutenberg_agent_id: '43956'
       url: http://www.gutenberg.org/2009/agents/43956
+covers:
+- cover_type: archival
+  image_path: 46781-h/images/cover.jpg
 creator:
   author:
     agent_name: Chun, Carl
     gutenberg_agent_id: '43955'
     url: http://www.gutenberg.org/2009/agents/43955
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46781#Aus-den-Tiefen-des-Weltmeeres-Schilderungen-von-der-deutschen-Tiefsee-Expedition
 gutenberg_issued: '2014-09-06'
 gutenberg_type: Text
 identifiers:
